@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "991972971500",
+    "firebase_url": "https://t-teet.firebaseio.com",
+    "project_id": "t-teet",
+    "storage_bucket": "t-teet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991972971500:android:ee5492dee52115a58126c9",
+        "android_client_info": {
+          "package_name": "com.rider.t_teet_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991972971500-165ioc03f189t63u8a0aq0524g5a8esa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rider.t_teet_rider",
+            "certificate_hash": "d8f4d9e107cd475bfa7ad3fd7b0e4b581ca3fe65"
+          }
+        },
+        {
+          "client_id": "991972971500-ms0crg8083jt1uokfn6u518iag48fnt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPiGGXbniI4k4Qr9uz4d_4Z2ZXLzxcH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991972971500-ms0crg8083jt1uokfn6u518iag48fnt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991972971500:android:43b35c518f2af2a78126c9",
+        "android_client_info": {
+          "package_name": "com.user.t_teet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991972971500-oo9e3930fppt8jcnkfq11536rfgp959u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.t_teet",
+            "certificate_hash": "cf67f697650bd353a43f3c6ee058c05e56df55ea"
+          }
+        },
+        {
+          "client_id": "991972971500-6gt6u29jphb9phmtqt9m863e86tpe8mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.t_teet",
+            "certificate_hash": "d8f4d9e107cd475bfa7ad3fd7b0e4b581ca3fe65"
+          }
+        },
+        {
+          "client_id": "991972971500-ms0crg8083jt1uokfn6u518iag48fnt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPiGGXbniI4k4Qr9uz4d_4Z2ZXLzxcH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991972971500-ms0crg8083jt1uokfn6u518iag48fnt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
